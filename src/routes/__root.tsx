@@ -84,11 +84,15 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { title: "Aurelia — Fine Jewelry, Hand-Finished in Paris" },
       { name: "description", content: "Aurelia crafts heirloom diamond, gold, and pearl jewelry. Rings, necklaces, earrings, bracelets, and watches — designed to be inherited." },
       { name: "author", content: "Aurelia" },
-      { property: "og:title", content: "Aurelia — Fine Jewelry" },
-      { property: "og:description", content: "Heirloom diamond, gold, and pearl jewelry, hand-finished in our Parisian atelier." },
+      { property: "og:title", content: "Aurelia — Fine Jewelry, Hand-Finished in Paris" },
+      { property: "og:description", content: "Aurelia crafts heirloom diamond, gold, and pearl jewelry. Rings, necklaces, earrings, bracelets, and watches — designed to be inherited." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Aurelia — Fine Jewelry, Hand-Finished in Paris" },
+      { name: "twitter:description", content: "Aurelia crafts heirloom diamond, gold, and pearl jewelry. Rings, necklaces, earrings, bracelets, and watches — designed to be inherited." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/f1b4c136-dcae-473a-85d0-2a03237e725b/id-preview-df4ca947--5ea0a912-2c10-4cdf-8e9f-d5a0393be235.lovable.app-1780133333260.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/f1b4c136-dcae-473a-85d0-2a03237e725b/id-preview-df4ca947--5ea0a912-2c10-4cdf-8e9f-d5a0393be235.lovable.app-1780133333260.png" },
     ],
     links: [
       {
