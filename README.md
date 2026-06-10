@@ -1,7 +1,9 @@
 Aurelia Jewelry
+
 Aurelia Jewelry is a modern and elegant e-commerce website designed for showcasing and selling premium jewelry collections. The website provides a smooth shopping experience with a responsive design and user-friendly interface.
 
 Features
+
 Responsive and modern design
 Premium jewelry product showcase
 Product categories:
